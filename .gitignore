@@ -1,4 +1,3 @@
-# PrimeServe build outputs - not committed.
-build/
-*.exe
-*.pdb
+# The build/ directory ships intentionally: it holds the prebuilt PrimeServe.exe,
+# a Windows build (csc / C# 5.0) of these sources, provided as a convenience.
+# Nothing is excluded from this repository.
