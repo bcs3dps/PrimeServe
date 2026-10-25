@@ -1,0 +1,4 @@
+# PrimeServe build outputs - not committed.
+build/
+*.exe
+*.pdb
